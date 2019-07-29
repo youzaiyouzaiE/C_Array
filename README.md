@@ -1,2 +1,2 @@
 # C_Array
-array implement with C language
+point and array relationship
